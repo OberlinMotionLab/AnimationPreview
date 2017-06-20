@@ -2,7 +2,7 @@
   "name": "oml_webgl",
   "version": "1.0.0",
   "description": "Animation Renderer for OML Site",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "three": "^0.84.0",
     "three.js": "^0.77.1"
